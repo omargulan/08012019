@@ -1,0 +1,7 @@
+C:\Users\ОмирзаковМ\source\repos\HW_08012019\HW_08012019\bin\Debug\HW_08012019.exe.config
+C:\Users\ОмирзаковМ\source\repos\HW_08012019\HW_08012019\bin\Debug\HW_08012019.exe
+C:\Users\ОмирзаковМ\source\repos\HW_08012019\HW_08012019\bin\Debug\HW_08012019.pdb
+C:\Users\ОмирзаковМ\source\repos\HW_08012019\HW_08012019\obj\Debug\HW_08012019.csprojAssemblyReference.cache
+C:\Users\ОмирзаковМ\source\repos\HW_08012019\HW_08012019\obj\Debug\HW_08012019.csproj.CoreCompileInputs.cache
+C:\Users\ОмирзаковМ\source\repos\HW_08012019\HW_08012019\obj\Debug\HW_08012019.exe
+C:\Users\ОмирзаковМ\source\repos\HW_08012019\HW_08012019\obj\Debug\HW_08012019.pdb
